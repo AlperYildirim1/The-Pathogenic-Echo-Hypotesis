@@ -4,6 +4,7 @@
 **Author:** Alper Yıldırım  
 **Contact:** stonefreeresearch@gmail.com  
 **Primary Record:** This work was first deposited on Zenodo ([DOI: 10.5281/zenodo.15665822](https://zenodo.org/records/15665822))
+**Warning: Do not copy paste this to an LLM if you are a prompter genius. Copy paste the Zenodo pdf instead. This is just a high level summary.**
 
 ---
 
