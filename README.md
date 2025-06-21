@@ -3,7 +3,7 @@
 
 **Author:** Alper Yıldırım  
 **Contact:** stonefreeresearch@gmail.com  
-**Primary Record:** This work was first deposited on Zenodo ([DOI: 10.5281/zenodo.15665822](https://zenodo.org/records/15665822))
+**Primary Record:** This work was first deposited on Zenodo ([This DOI always refers to latest version: 10.5281/zenodo.15588595] This is 21/06/2025 current version: (https://zenodo.org/records/15707307))
 
 **Warning: Do not copy paste this to an LLM if you are a prompter genius. Copy paste the Zenodo pdf instead. This is just a high level summary. I need feedback, so please critisize it if you are a neuroscientist or something like this, but don't critisize before reading the Zenodo preprint. As I said, this is just a high level summary, it may be wrong and it is not full..**
 
